@@ -1,7 +1,9 @@
 # SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis
 Hanrong Ye, Jason Kuen, Qing Liu, Zhe Lin, Brian Price, Dan Xu 
 
-[Paper](https://arxiv.org/abs/2311.03355) | [Project Page](https://seggenerator.github.io/)
+
+[![Project Page](https://img.shields.io/badge/Project-Website-87CEEB)](https://seggenerator.github.io/)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2311.03355)
 
 
 ![teaser_coco_website](https://github.com/prismformore/seggen/assets/14089338/e9160e82-72d2-4319-8334-7f3255994b86) \
