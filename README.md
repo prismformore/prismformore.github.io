@@ -25,6 +25,7 @@ Hanrong Ye, Jason Kuen, Qing Liu, Zhe Lin, Brian Price, Dan Xu
 @article{ye2023seggen,
   title={SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis},
   author={Ye, Hanrong and Kuen, Jason and Liu, Qing and Lin, Zhe and Price, Brian and Xu, Dan},
+  journal={arXiv preprint arXiv:2311.03355},
   year={2023}
 }
 ```
