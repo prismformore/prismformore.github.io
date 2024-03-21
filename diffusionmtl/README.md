@@ -1,1 +1,1 @@
-# SegGen Website
+# Website
