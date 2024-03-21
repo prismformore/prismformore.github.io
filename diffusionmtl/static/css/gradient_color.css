@@ -1,0 +1,6 @@
+.gradient-text {
+  font-size: 55px; /* Set the font size */
+  background: -webkit-linear-gradient(0deg, #f32170, #ff6b08, #cf23cf, #eedd44); /* Define the gradient */
+  -webkit-background-clip: text; /* Clip the background to the text */
+  -webkit-text-fill-color: transparent; /* Make the text color transparent */
+}
