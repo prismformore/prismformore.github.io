@@ -149,6 +149,7 @@ body {
   font-size: 0;
   justify-content: center; /* Horizontally center */
   align-items: center;     /* Vertically center */
+  text-align: center;
 }
 
 .results-item figcaption {
